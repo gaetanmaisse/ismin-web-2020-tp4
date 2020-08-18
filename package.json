@@ -1,5 +1,5 @@
 {
-  "name": "tp2",
+  "name": "tp4",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -56,7 +56,7 @@
       "json",
       "ts"
     ],
-    "rootDir": "src",
+    "rootDir": ".",
     "testRegex": ".spec.ts$",
     "transform": {
       "^.+\\.(t|j)s$": "ts-jest"
